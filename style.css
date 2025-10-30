@@ -19,7 +19,7 @@ body div, ul, ol{
     width: 100%;
     display: flex;
     flex-direction: row;
-    background: #e7e7e7;
+    background: #E4080A;
     padding: 48px;
     gap: 48px;
     justify-content: space-between;
@@ -88,4 +88,5 @@ footer{
 
 footer a:hover{
     cursor: default;
+
 }
